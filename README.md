@@ -1,6 +1,6 @@
 ##  🌟 Hi, I'm Sneha   👋
 
-<!--
+!--
 **snehamourya23/snehamourya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to my GitHub profile! I'm a budding **Data Analyst** with a strong foundation in **data visualization, SQL, Python, and Excel**, along with a unique perspective from my **NEET UG academic background**. I love turning data into actionable insights and combining analytical thinking with problem-solving skills.
@@ -50,4 +50,4 @@ Welcome to my GitHub profile! I'm a budding **Data Analyst** with a strong found
 
 
 
--->
+--
